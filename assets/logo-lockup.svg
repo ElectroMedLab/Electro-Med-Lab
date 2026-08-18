@@ -1,0 +1,16 @@
+<svg width="520" height="160" viewBox="0 0 520 160" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(10,10)">
+    <path d="M14,25 A70,70 0 0 1 14,115" fill="none" stroke="#b1502f" stroke-width="6" stroke-linecap="round"/>
+    <path d="M31,39 A50,50 0 0 1 31,101" fill="none" stroke="#b1502f" stroke-width="6" stroke-linecap="round"/>
+    <path d="M48,53 A31,31 0 0 1 48,87" fill="none" stroke="#b1502f" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="65" cy="70" r="8" fill="#b1502f"/>
+    <g stroke="#b8860b" stroke-width="6" stroke-linecap="round">
+      <line x1="78" y1="70" x2="104" y2="70"/>
+      <line x1="75" y1="56" x2="97" y2="38"/>
+      <line x1="75" y1="84" x2="97" y2="102"/>
+      <line x1="81" y1="44" x2="96" y2="20"/>
+      <line x1="81" y1="96" x2="96" y2="120"/>
+    </g>
+  </g>
+  <text x="150" y="98" font-family="Raleway, Arial, sans-serif" font-weight="800" font-size="46" fill="#201a16">Electro-Med Lab</text>
+</svg>

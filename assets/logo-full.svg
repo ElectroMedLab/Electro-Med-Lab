@@ -1,0 +1,24 @@
+<svg width="1000" height="1220" viewBox="0 0 1000 1220" xmlns="http://www.w3.org/2000/svg">
+  <path d="M811.3,678.0 A380,380 0 0 1 132.9,361.6" fill="none" stroke="#b1502f" stroke-width="16" stroke-linecap="round"/>
+  <path d="M231.3,191.3 A380,380 0 0 1 811.3,242.0" fill="none" stroke="#b1502f" stroke-width="16" stroke-linecap="round"/>
+
+  <polygon points="450,150 320,450 400,450 340,700 560,430 470,430 525,150" fill="#b1502f"/>
+
+  <path d="M430,480 C465,390 500,390 535,480 C570,570 605,570 640,480 C665,415 690,415 715,470" fill="none" stroke="#b8860b" stroke-width="20" stroke-linecap="round"/>
+
+  <g>
+    <rect x="770" y="330" width="150" height="300" rx="75" fill="#201a16"/>
+    <rect x="770" y="330" width="150" height="150" rx="75" fill="#f6f2ee"/>
+    <rect x="770" y="405" width="150" height="8" fill="#201a16"/>
+    <circle cx="745" cy="500" r="14" fill="#b1502f"/>
+    <circle cx="710" cy="472" r="10" fill="#b8860b"/>
+    <circle cx="702" cy="540" r="9" fill="#b1502f"/>
+    <circle cx="662" cy="503" r="7" fill="#b8860b"/>
+    <circle cx="668" cy="558" r="6" fill="#b1502f"/>
+    <circle cx="632" cy="530" r="5" fill="#b8860b"/>
+  </g>
+
+  <text x="500" y="950" font-family="Raleway, Arial, sans-serif" font-weight="800" font-size="78" fill="#201a16" text-anchor="middle">ELECTRO-<tspan fill="#b1502f">MED</tspan> LAB</text>
+  <line x1="260" y1="995" x2="740" y2="995" stroke="#201a16" stroke-width="3"/>
+  <text x="500" y="1050" font-family="Raleway, Arial, sans-serif" font-weight="700" font-size="34" letter-spacing="4" fill="#b8860b" text-anchor="middle">THE UNIVERSITY OF MANCHESTER</text>
+</svg>
